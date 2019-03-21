@@ -7,7 +7,7 @@
 
 Run the following in the root directory: 
 
-## Windows
+## Windowss
 ```
 mvnw.cmd clean install
 mvnw.cmd spring-boot:run
